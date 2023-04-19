@@ -28,7 +28,7 @@ simplefilter(action='ignore', category=FutureWarning)
 ```python
 # loading the data
 
-df_census = pd.read_csv('D:/Mahdieh_CourseUniversity/University_courses/ALY6020\Module_1/Project/Project/adult-all.csv')
+df_census = pd.read_csv('D:/adult-all.csv')
 
 ```
 
